@@ -1,4 +1,4 @@
-<center><h1></h1>**A Smart Ventilation Solution for Comfortable Indoor Environment**</h1></center>
+<h1>A Smart Ventilation Solution for Comfortable Indoor Environment</h1>
 
 <h4>** PROBLEM STATEMENT**</h4>
 • Traditional exhaust systems often operate on fixed schedules or manual controls, leading to energy
